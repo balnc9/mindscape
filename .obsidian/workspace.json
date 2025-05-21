@@ -11,10 +11,14 @@
             "id": "ba00ea2e622e84d6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Academia/CMSC330/Lecture 1 Notes.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Lecture 1 Notes"
             }
           }
         ]
@@ -153,7 +157,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -164,6 +167,9 @@
   },
   "active": "ba00ea2e622e84d6",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Welcome.md",
+    "Academia/CMSC330/Lecture 1 Notes.md",
+    "Academia/CMSC330",
+    "Academia"
   ]
 }
