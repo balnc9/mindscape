@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academia/CMSC330/Lecture 1 Notes.md",
+                "file": "Academia/CMSC330/Lecture 2 Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 1 Notes"
+              "title": "Lecture 2 Notes"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5225bd2d7820dc34",
@@ -167,8 +168,10 @@
   },
   "active": "ba00ea2e622e84d6",
   "lastOpenFiles": [
-    "Welcome.md",
     "Academia/CMSC330/Lecture 1 Notes.md",
+    "Academia/CMSC330/Lecture 2 Notes.md",
+    "Academia/CMSC351",
+    "Welcome.md",
     "Academia/CMSC330",
     "Academia"
   ]
