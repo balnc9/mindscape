@@ -1,4 +1,5 @@
-**OCaml Basics**
+[[CMSC330 Header + Node Link]]
+OCaml Basics
 ***Compiler***
 - translates code from high-level to lower-level programming language
 	- e.g assembly language, byte code, machine code
