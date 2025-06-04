@@ -1,4 +1,4 @@
-[[spirituality node link]]
+[[spirituality hnl]]
 Rest In Christ
 
 Matthew 11:25-30

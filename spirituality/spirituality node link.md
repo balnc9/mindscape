@@ -1,1 +1,0 @@
-[[spirituality node link]]

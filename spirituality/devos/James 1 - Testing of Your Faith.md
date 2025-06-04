@@ -1,5 +1,5 @@
-[[spirituality node link]]
-[[! Devos node link]]
+[[spirituality hnl]]
+[[devos hnl]]
 James is the writer of this letter, presumably a leader in the church by the authority and tone of his speech. From the letter, we can gather that James was a powerful man and a leader in the church. He was a man who loved what was right and good. Even those who did not believe in Christ thought well of him. This was especially true about those who were poor, because he helped those who were poor and did what he could for those who suffered wrongs. In that way, he showed his trust in God and Jesus Christ. In all this, he was a man of peace and wisdom.
 
 Context:

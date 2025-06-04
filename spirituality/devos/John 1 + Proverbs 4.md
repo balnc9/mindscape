@@ -1,5 +1,5 @@
-[[spirituality node link]]
-[[! Devos node link]]
+[[spirituality hnl]]
+[[devos hnl]]
 John 1
 
 (Study source: [https://www.easyenglish.bible/bible-commentary/john-ma-lbw.htm](https://www.easyenglish.bible/bible-commentary/john-ma-lbw.htm))

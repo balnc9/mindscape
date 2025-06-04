@@ -1,4 +1,4 @@
-[[spirituality node link]]
+[[spirituality hnl]]
 John 15
 
 Proverbs 15:29

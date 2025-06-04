@@ -1,4 +1,4 @@
-[[spirituality node link]]
+[[spirituality hnl]]
 “It's not the size of the dog, it's the size of the fight in the dog”
 
 - Do we believe this in terms of our faith/relationship with God?

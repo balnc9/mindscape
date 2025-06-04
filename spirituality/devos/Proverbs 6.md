@@ -1,5 +1,5 @@
-[[spirituality node link]]
-[[! Devos node link]]
+[[spirituality hnl]]
+[[devos hnl]]
 _Practical Warnings_
 
 _**6:1-5**_

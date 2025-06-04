@@ -1,4 +1,4 @@
-[[spirituality node link]]
+[[spirituality hnl]]
 “And let us consider how to stir up one another to love and good works,
 
 We can all agree that our personal faith matters.

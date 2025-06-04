@@ -1,4 +1,4 @@
-[[spirituality node link]]
+[[spirituality hnl]]
 garden service before nyc
 
 Paul is saying we hope the opposite is true for our lives. We hope that we understand that our circumstances by the Lord, through the Lord.

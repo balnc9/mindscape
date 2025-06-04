@@ -1,4 +1,4 @@
-[[spirituality node link]]
+[[spirituality hnl]]
 Fruit of the Spirit : Love
 
 Galatians 5:22-25

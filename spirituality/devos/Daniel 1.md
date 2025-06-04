@@ -1,5 +1,5 @@
-[[spirituality node link]]
-[[! Devos node link]]
+[[spirituality hnl]]
+[[devos hnl]]
 Sermon series via NBEC (Leading into ARISE Dwelling Place 2025)
 
 Called by Jane a “puzzling book” because the first part of the book will read like Kings, and the second part will read like Revelations

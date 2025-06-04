@@ -1,4 +1,4 @@
-[[spirituality node link]]
+[[spirituality hnl]]
 Ephesians 2:1-5
 
 You were dead in your sins, there was no hope for you, nothing you could have done. You were consumed by your sin and just waiting to be consumed. We were destined for Gods wrath and to be judged by our sin. A hopeless destiny.

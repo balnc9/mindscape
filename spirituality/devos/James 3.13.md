@@ -1,5 +1,5 @@
-[[spirituality node link]]
-[[! Devos node link]]
+[[spirituality hnl]]
+[[devos hnl]]
 See context:
 
 [[James 1. 19-27 (Hearing and Doing the Word)]]
