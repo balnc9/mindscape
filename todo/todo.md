@@ -1,9 +1,12 @@
 
 
 **DONE LIST**
+
+~~
 ~~** ***DONE*** : CMSC330 UBUNTU WSL SETUP
+** ***DONE*** : COLEXIA INTRO INTERVIEW (**6/2 14:00**)
 ** ***DONE*** : CMSC330 PROJECT0 DUE
-** **DONE** : CMSC330 QUIZ DUE **6/8** 1159PM
+** **DONE** : CMSC330 QUIZ DUE (**6/8 23:59**)
 
 ~~
 
