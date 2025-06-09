@@ -1,6 +1,6 @@
 {
   "commitMessage": "{{hostname}} push {{date}}",
-  "autoCommitMessage": "vault backup: {{date}}",
+  "autoCommitMessage": "update obsidian",
   "commitDateFormat": "MM-DD-YYYY HH:mm",
   "autoSaveInterval": 5,
   "autoPushInterval": 0,
@@ -16,7 +16,7 @@
   "updateSubmodules": false,
   "syncMethod": "merge",
   "customMessageOnAutoBackup": false,
-  "autoBackupAfterFileChange": false,
+  "autoBackupAfterFileChange": true,
   "treeStructure": false,
   "refreshSourceControl": true,
   "basePath": "",
