@@ -2,7 +2,11 @@
   "commitMessage": "{{hostname}} push {{date}}",
   "autoCommitMessage": "update obsidian",
   "commitDateFormat": "MM DD YYYY HH:mm",
+<<<<<<< HEAD
   "autoSaveInterval": 5,
+=======
+  "autoSaveInterval": 3,
+>>>>>>> origin/main
   "autoPushInterval": 0,
   "autoPullInterval": 0,
   "autoPullOnBoot": true,
@@ -16,7 +20,11 @@
   "updateSubmodules": false,
   "syncMethod": "merge",
   "customMessageOnAutoBackup": false,
+<<<<<<< HEAD
   "autoBackupAfterFileChange": true,
+=======
+  "autoBackupAfterFileChange": false,
+>>>>>>> origin/main
   "treeStructure": false,
   "refreshSourceControl": true,
   "basePath": "",
