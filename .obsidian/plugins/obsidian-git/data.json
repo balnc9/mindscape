@@ -1,7 +1,7 @@
 {
   "commitMessage": "{{hostname}} push {{date}}",
   "autoCommitMessage": "update obsidian",
-  "commitDateFormat": "MM-DD-YYYY HH:mm",
+  "commitDateFormat": "MM DD YYYY HH:mm",
   "autoSaveInterval": 5,
   "autoPushInterval": 0,
   "autoPullInterval": 0,
