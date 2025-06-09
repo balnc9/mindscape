@@ -1,4 +1,4 @@
-[[spirituality hnl]]
+
 _**The Gospel Community**_
 
 One of the first things that Jesus did was create a small group, a “team” of his disciples. It could have been easier for him to do everything on his own; his disciples were uneducated (young) and uncooperative sometimes.

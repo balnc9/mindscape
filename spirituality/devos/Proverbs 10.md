@@ -1,5 +1,4 @@
-[[spirituality hnl]]
-[[devos hnl]]
+
 Proverbs 10:1 to Proverbs 22:16 is the second major section in the Book of Proverbs. This section contains 375 short poems. Most poems have two lines and each poem is one verse long, so 375 verses. Each is called a ‘proverb’
 
 Solomon did not separate the proverbs into groups, they change from one subject to another. However, their order _does_ matter. Solomon uses a natural order, similar to a conversation, where one proverb might explain or respond or contrast a previous one. Together, they form something of a conversation.

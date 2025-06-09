@@ -1,4 +1,4 @@
-[[spirituality hnl]]
+
 _**Psalm 51: Create in Me a Clean Heart, O God**_
 
 Note: To the choirmaster, a Psalm of David, when Nathan the Prophet went to Him after he had gone into Bathsheba

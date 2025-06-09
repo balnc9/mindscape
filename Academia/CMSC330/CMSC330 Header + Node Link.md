@@ -1,4 +1,4 @@
-[[Academia]]
+
 Course Link: https://bakalian.cs.umd.edu/330
 Syllabus: https://bakalian.cs.umd.edu/330/syllabus
 Course Overview:

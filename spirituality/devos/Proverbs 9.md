@@ -1,5 +1,4 @@
-[[spirituality hnl]]
-[[devos hnl]]
+
 This poem explains wisdom, and the opposite of it, the purpose was to teach Solomon’s son to be wise and lead his nation.
 
 Wisdom, depicted as a woman in this poem, invites guests over to her house for a meal.

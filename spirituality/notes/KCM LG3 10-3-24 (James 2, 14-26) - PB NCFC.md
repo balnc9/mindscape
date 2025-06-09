@@ -1,4 +1,4 @@
-[[spirituality hnl]]
+
 James describes people that deceive themselves. Anyone who listens to the word but does not do what it says has dead faith and is deceiving themselves.
 - Matthew 7 - Build your house with God as your foundation. Otherwise, that house will not stand strong when the winds come.
     God is Not interested in behavior modification, but in Heart Transformation. Let our compassion lead our actions. James wants to bring up not a different gospel, he's not promoting salvation by works, but he is making a point that genuine faith should produce real work, because faith bears fruit.

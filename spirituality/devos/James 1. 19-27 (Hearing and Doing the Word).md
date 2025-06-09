@@ -1,5 +1,4 @@
-[[spirituality hnl]]
-[[devos hnl]]
+
 (See [[James 1 - Testing of Your Faith]] for _context_)
 
 19: “…let every person be quick to hear, slow to speak, slow to anger.”

@@ -1,4 +1,4 @@
-[[spirituality hnl]]
+
 God established Eve as a “suitable helper” in Genesis 2:18
 
 - **The relationship**

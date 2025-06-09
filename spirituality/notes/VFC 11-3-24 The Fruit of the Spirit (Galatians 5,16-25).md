@@ -1,4 +1,4 @@
-[[spirituality hnl]]
+
 Why should I change? Maybe I can revisit this later when I have more time.
 
 - The fruit of the spirit is not an add on. It's not something that's nice to have but not necessary. It is absolutely necessary and a product of your faith.

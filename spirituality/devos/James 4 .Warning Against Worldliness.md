@@ -1,5 +1,4 @@
-[[spirituality hnl]]
-[[devos hnl]]
+
 Our fights and conflicts often come from a difference of our own desires, in other words, our pursuit of pleasure interferes with our relationships with one another.
 
 We should live not for our own pleasures but to please God.

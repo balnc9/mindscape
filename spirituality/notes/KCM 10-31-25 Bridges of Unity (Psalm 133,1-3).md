@@ -1,4 +1,4 @@
-[[spirituality hnl]]
+
 Bridges of Unity: A Mark of True Christians
 
 - Unity is not easy to sustain

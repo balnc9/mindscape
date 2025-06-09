@@ -1,4 +1,4 @@
-[[spirituality hnl]]
+
 Can our love for Jesus be too extravagant?
 
 Can we ever love Jesus too much?

@@ -1,4 +1,4 @@
-[[spirituality hnl]]
+
 Isaiah 61
 
 Offering prayer asking for raises, bonuses, finding lost money, etc.? Asking for Jesus to provide????

@@ -1,4 +1,4 @@
-[[spirituality hnl]]
+
 [https://www.youtube.com/watch?v=MTlZrgBvO-k](https://www.youtube.com/watch?v=MTlZrgBvO-k)
 
 Social Sin - There are two types of sin in Hamartiology (The study of sin in Christian theology).

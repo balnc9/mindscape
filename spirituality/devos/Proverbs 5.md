@@ -1,5 +1,4 @@
-[[spirituality hnl]]
-[[devos hnl]]
+
 Proverbs 5: Warning Against Adultery
 
 5:3-4 - “_For the lips of a forbidden woman drip honey and her speech is smoother than oil, but in the end she is bitter as wormwood, sharp as a two-edged sword_.”

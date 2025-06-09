@@ -1,6 +1,3 @@
-[[CMSC330 Header + Node Link]]
-[[Academia]]
-
 
 
 example (imperative languages):

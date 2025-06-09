@@ -1,4 +1,4 @@
-[[spirituality hnl]]
+
 One of Jane’s reasons for switching is beacause
 
 Verse 22-33 is disattached from verse 21 in some translations (ESV, presumably). Ephesians 5: 21 coats and covers the entire passage. Mistranslation

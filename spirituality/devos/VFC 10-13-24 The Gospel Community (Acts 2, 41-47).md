@@ -1,4 +1,4 @@
-[[spirituality hnl]]
+
 **The Gospel Community**
 
 How can we continue to _**build**_ a christ centered community?
