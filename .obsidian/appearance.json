@@ -1,1 +1,7 @@
-{}
+{
+  "cssTheme": "Obsidian gruvbox",
+  "textFontFamily": "MesloLGL Nerd Font Mono",
+  "interfaceFontFamily": "Inter",
+  "baseFontSizeAction": true,
+  "baseFontSize": 14
+}
