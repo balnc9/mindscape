@@ -7,17 +7,19 @@
 ** ***DONE*** : COLEXIA INTRO INTERVIEW (**6/2 14:00**)
 ** ***DONE*** : CMSC330 PROJECT0 DUE
 ** **DONE** : CMSC330 QUIZ DUE (**6/8 23:59**)
-
-~~
-
-**TODO LIST**: 
 ** ***TODO*** : NOTARIZATION + MEDICAL CERTIFICATION APPOINTMENT (**6/9 11:00**)
 ** ***TODO*** : YAPPINGTONS DINNER (**6/9 15:00**)  ??
 ** ***TODO*** : DME RESEARCH MEETING W/ VIRAAJ (**6/9 22:00**) 
+** ***TODO*** : PHYSICAL APPOINTMENT (**6/10 08:30**) 
+*TODO* : Update resume with new VFC Application.
+*TODO* : Apply for Apple Internship
+~~
+
+**TODO LIST**: 
 ** ***TODO*** : SPAIN VISA APPOINTMENT (**6/11 12:00**)
 ** ***TODO*** : CMSC330 PROJECT1 DUE (**6/11 23:59**)
-** ***TODO*** : SPAIN STUDY ABROAD HOUSING (???)
-** ***TODO*** : VFC FNF (PREP WORSHIP) (**6/13**)
+** ***TODO*** : SPAIN STUDY ABROAD HOUSING (**6/14**)
+*TODO*** : VFC FNF (PREP WORSHIP) (**6/13**)
 test
 ** ***TODO*** : COLEXIA INTERNSHIP MEETING 2 (**6/23**)
 
