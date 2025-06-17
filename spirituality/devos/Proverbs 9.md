@@ -19,7 +19,7 @@ V10
 To be wise does not mean to be intelligent or clever. “The fear of the LORD is the beginning of wisdom and the knowledge of the Holy One is insight”
 
 - To be wise means to fear the LORD, or to RESPECT Him.
-    - God is more important and supercedes everything in our busy lives. Therefore, our decisions should be made from the counsel of God, we should think first about God. Will x,y,z honor Him?
+    - God is more important and super cedes everything in our busy lives. Therefore, our decisions should be made from the counsel of God, we should think first about God. Will x,y,z honor Him?
 
 The second woman _Folly_ is depicted as the opposite of Wisdom, as ‘The Foolish Woman’
 
