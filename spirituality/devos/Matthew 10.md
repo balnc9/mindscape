@@ -1,0 +1,5 @@
+This chapter begins with an introduction to the disciples, or apostles (meaning someone who is "sent out" via the Greek term *apostolon*).
+He then gives instructions for a short-term trip where the disciples will visit the towns and cities of Galilee preaching Jesus' message, but specifically focusing on the Israelite towns. 
+- Jesus actually gives them access to his power to perform miracles to represent Him.
+- He also demands that they do not bring extra things like money clothes or supplies, I would assume to depend on the fact that God will provide and to show their faith.
+- He also tells them that they will face persecution and difficulty but to not fear because they will be vindicated in the end and their job is NOT to obtain victory on earth but to broadcast Jesus' message, no matter the consequences for themselves.
