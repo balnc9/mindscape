@@ -1,16 +1,12 @@
+** ***TODO*** : Colexia Internship Work (research firebase, improve script) 
+** _**TODO**_ : CMSC351 HW #1 due  (**7/21 23:59**)  
+** _**TODO**_ : CMSC351 HW #2 due  (**7/21 23:59**)  
+** _**TODO**_ : CMSC330 project5 (**7/25 23:59**)
+** _**EVENT**_ : Naomi going away party (**7/26 18:00**)  
 
-
-**TODO LIST**: 
-** ***TODO*** : SPAIN STUDY ABROAD HOUSING (**6/14**)
-** ***TODO*** : COLEXIA INTERNSHIP MEETING 2 (**6/23**)
-*TODO* : GET UPDATED UC3M LETTER + UPDATE BLS OFFICE
-** ***TODO*** : BOOK NYC BUS & TEXT UPDATE ANDI
 Grab notecard
 
 _FAR FUTURE TODOS_
-** _**TODO**_ : CMSC351 HOMEWORK1 DUE (**7/17 23:59**)  
-** _**TODO**_ : CMSC351 HOMEWORK2 DUE (**7/21 23:59**)  
-** ***TODO*** : GO TO NYC W/ MOM FOR BDAY (**7/22**)
 ** _**TODO**_ : CMSC351 HOMEWORK3 DUE (**7/24 23:59**)  
 ** _**TODO**_ : CMSC351 EXAM1 CLOSES (**7/27 23:59**)  
 ** _**TODO**_ : CMSC351 HOMEWORK4 DUE (**7/29 23:59**)  
@@ -27,6 +23,7 @@ _FAR FUTURE TODOS_
 
 
 **DONE LIST**
+
 ~~** ***DONE*** : CMSC330 UBUNTU WSL SETUP
 ** ***DONE*** : COLEXIA INTRO INTERVIEW (**6/2 14:00**)
 ** ***DONE*** : CMSC330 PROJECT0 DUE
@@ -45,3 +42,7 @@ _FAR FUTURE TODOS_
 ** ***TODO*** : CS330 PROJECT2 DUE (**6/18 23:59**)
 *TODO* : JULIE BDAY SURPRISE @ SHIA (**6/18 21:00**)
 TODO : GRAB CREDIT CARD
+** ***TODO*** : SPAIN STUDY ABROAD HOUSING (**6/14**)
+** ***TODO*** : COLEXIA INTERNSHIP MEETING 2 (**6/23**)
+*TODO* : GET UPDATED UC3M LETTER + UPDATE BLS OFFICE
+** ***TODO*** : BOOK NYC BUS & TEXT UPDATE ANDI
