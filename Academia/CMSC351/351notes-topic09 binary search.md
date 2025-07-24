@@ -31,3 +31,8 @@ B) Worst Case: if the target is NOT in the list.
 C) Average Case: Given a list, let's see how long it takes to find each elt and average that.
 assume the elt is in the list, and list len is *"nice" (1, 3, 7, 15, 31)*
 - Time is θ(lgn)
+
+**Time Notes**
+Best Case : θ(1)
+Worst Case: θ(lgn)
+Average Case: θ(lgn)
