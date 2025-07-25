@@ -42,7 +42,7 @@ T(n) = (n-1)(C1 + C2) = **θ(n)**
 - What does avg case even mean?
 
 **Inversions**
-defn: Given a list A, an **inversion** is a pair of indices (i,j) w/ i<j but A[i] > A[j]
+defn: Given a list A, an **inversion** is a pair of indices (i , j) w/ i<j but A[i] > A[j]
 - i.e: the elements are out of order (2,1)
 ex. 
 - ![[Pasted image 20250724141416.png]]
