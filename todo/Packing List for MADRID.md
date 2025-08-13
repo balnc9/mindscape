@@ -1,35 +1,42 @@
-**Apparel**
-	- light jacket at most for Cold outerwear
-	- sunglasses
-	- Slides, Sneakers, Loafers
-	- Button down shirts
-	- 10x socks 10x underwear
-	- Maybe find sling bag
-
+**CLOTHING**
+- tees 5-7
+- button downs 2-4 maybe get some more there
+- sweaters/sweatshirts 2-3
+- jeans 4
+- shorts 3
+- nicer shorts 2
+- maybe light jacket
+- sneakers
+- nice shoes maybe
+- sandals or slides
+- underwear 10-14
+- socks 8-10
+- belt 2
+- 
 
 
 **Electronics**
 - Camera (charger, batteries, SD card + reader)
 - Laptop + charger
-- Air pods
-- EU plugs
+- Air pods + earbuds
+- EU plug adapter (have 1 get another)
+- portable charger maybe
 
 **Toiletries**
 - Nizoral Shampoo
 - Toothbrush + toothpaste
 -  Phillips razor + charger
-- Sunscreen roundlab
+- Sunscreen facial and or body
 - nail clipper
-- comb
 - Aquaphor
 - face wash + moisturizer
 - cologne
 - deodorant
-- 
 
 **Misc.**
-- Ask BNB if we need: Towels, Bedsheets, Blankets, etc.
+- sheets + towels
+- pillow
 - Owala
-- Pencil case
-- ball shoes
+- passport
+- wallet
 - 
