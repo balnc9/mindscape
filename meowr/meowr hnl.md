@@ -1,1 +1,0 @@
-folder for random notes, thoughts, brain dump, copy pasta, quick repository, unstructured repo
