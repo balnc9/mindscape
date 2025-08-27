@@ -1,0 +1,39 @@
+CMSC 417 - Computer Networks
+the text for this book is "Computer Networks : A Systems Approach"
+- release version 6.1 by Peterson & Davie
+
+1. Networks Overview (Notes)
+
+1.1 APPLICATIONS
+The World Wide Web (WWW) is an Internet application that has catapulted itself into everyday life and society. Many people confuse the Web with the Internet, and it is a stretch to say that the Web is a single application.
+Essentially, the Web is an interface. Users can view pages full of images, text etc. and click on objects, view new pages, etc. Each page is bound to an identifier called a Uniform Resource Locator (URL), which provides a way of identifying all the possible objects that can be viewed from your web broser.
+The string 'http' indicates that the Hypertext Transfer Protocol (HTTP) should be used to download the page, 'www.cs.princeton.edu' is the name of the machine that serves the page and '/llp/index.html' uniquely identifies the current page.
+Note: There's a lot that happens under the scenes even when just clicking a link! (IP Translation, TCP connection setup, HTTP "GET" request, etc."
+
+1.2 Stakeholders of Networks:
+
+Throughout this course, it is important to consider the perspective of which you are going to learn the content from. Here are how 3 stakeholders might list their requirements for a Network.
+
+1) An application programmer would list the services needed for the app. For example, a guarantee that each message the app sends will be 100% delivered within a certain time, or the ability to switch elegantly between different connections to the network along with the user
+
+2) A network operator would need the network/system to be easy to administer and manage. For example, that new devices can be easily added/removed from the network and configured correctly, and that faults can be easily isoltated, etc.
+
+3) A network designer would need the network to be cost effective: for example, that network resources are efficiently distributed to different users. Also performance is important to them.
+
+1.2.2 Scalable Connectivity
+Ax: A network must provide connectivity among a set of computers.
+- In some cases it is better to build a limited network that only connects to a few select machines. (Privacy, security, etc.)
+- In other cases, some networks are designed to be Scalable and connect to as many computers as possible, like the Internet.
+
+How are computers connected to a network?
+Connectivity occurs at multple levels.
+
+At the lowest level, a network can consist of 2 or more computers directly connected by a physical medium like a Optical Fiber ethernet or a coaxial cable.
+- This physical medium (the cable) is called a Link. 
+- We often refer to the computer that a link connects to as Node(s)
+   - Sometimes a Node can be a more specialized piece of hardware rather than a computer
+
+Physical Links sometimes appear in Pairs (this is a point-to-point Link)
+and other times more than 2 nodes may share a single link (This is multiple-access).
+
+Wiresless links (wifi, cellular) are an important class of multiple-access links (these, we will refer to as MAL's). MAL's are always limited in size, both geographical distance size and the number of nodes that they can connect to size. This is why MAL's will often implement the 'last mile', connecting end users to the rest of the network.
